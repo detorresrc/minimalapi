@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JI53u8lYoxbAZTpEb5SjnBSwakSW9wti23wqGEV8tLg=",
+  "Source": "MinimalApiDocker",
+  "BasePath": "_content/MinimalApiDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
