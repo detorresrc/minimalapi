@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinimalApiDocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1754411dbc01b34d33f15e61a10ff22070df822f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinimalApiDocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinimalApiDocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

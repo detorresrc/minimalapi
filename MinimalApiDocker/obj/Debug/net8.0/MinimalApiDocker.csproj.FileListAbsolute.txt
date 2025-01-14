@@ -31,3 +31,4 @@
 /home/detorresrc/RiderProjects/MinimalApiDocker/MinimalApiDocker/obj/Debug/net8.0/MinimalApiDocker.pdb
 /home/detorresrc/RiderProjects/MinimalApiDocker/MinimalApiDocker/obj/Debug/net8.0/MinimalApiDocker.genruntimeconfig.cache
 /home/detorresrc/RiderProjects/MinimalApiDocker/MinimalApiDocker/obj/Debug/net8.0/ref/MinimalApiDocker.dll
+/home/detorresrc/RiderProjects/MinimalApiDocker/MinimalApiDocker/obj/Debug/net8.0/MinimalApiDocker.sourcelink.json

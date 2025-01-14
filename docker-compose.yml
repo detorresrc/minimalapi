@@ -4,3 +4,5 @@
     build:
       context: .
       dockerfile: MinimalApiDocker/Dockerfile
+    ports:
+      - 80:8080
