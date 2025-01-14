@@ -40,6 +40,10 @@ app.MapGet("/helloworld", () => "Hello World!!")
 .WithName("HelloWorld")
 .WithOpenApi();
 
+app.MapGet("/feat1", () => "feat1")
+.WithName("feat1")
+.WithOpenApi();
+
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
